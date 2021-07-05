@@ -1,0 +1,80 @@
+#area
+{
+	position:relative;
+	left:37%;
+	top:10em;
+	width:320px;
+	height:270px;
+}
+
+#area #formulario
+
+{
+	position:absolute;
+	display:block;
+}
+
+fieldset
+
+{
+	background-color:#FFFAFA;
+	width:250px;
+	height:200px;
+}
+
+legend
+{
+
+	font-weight:bold;
+	font-family:"Arial";
+}
+
+#formulario label
+{
+	position:absolute;
+	left:19px;
+	margin-right:5px;
+}
+
+#formulario input.name
+{
+	background-color:#FFFAFA;
+	position:absolute;
+	left:95px;
+	margin-top:4px;
+	width:225px;
+}
+
+#formulario input.nascimento
+{
+	background-color:#FFFAFA;
+	position:absolute;
+	left:95px;
+	margin-top:2px;
+	width:225px;
+}
+#formulario input.cidade
+{
+	background-color:#FFFAFA;
+	position:absolute;
+	left:95px;
+	margin-top:2px;
+	width:225px;
+}
+#formulario input.email
+{
+	background-color:#FFFAFA;
+	position:absolute;
+	left:95px;
+	margin-top:2px;
+	width:225px;
+}
+
+#formulario input.btn_submit
+{
+	border-style:dashed;
+	position:absolute;
+	bottom: 0.5em;
+	rigth:10px;
+	background-color:#AFEEEE;
+}
